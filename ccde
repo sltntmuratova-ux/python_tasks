@@ -1,0 +1,4 @@
+cd python-tasks
+git add .
+git commit -m "Добавлены задачи 1 и 2"
+git push origin main
